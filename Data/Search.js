@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/Course-Content/10-More in Infinite Blue.htm'],s:['$'],p:[['$',4],['loan',5],['||',9]]});

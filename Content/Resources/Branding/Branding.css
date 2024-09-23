@@ -1,0 +1,19 @@
+/*<meta />*/
+
+/* MadCap-Branding applanguage:Templates/Projects/Online & Print/eLearning and PDF/ */
+
+:root
+{
+	--Lightest: #FFFFFF;
+	--Primary: #0572ed;
+	--FontFamily: Inter;
+	--Secondary: #ffffff;
+	--Light: #ffffff;
+	--Medium: #0572ed;
+	--Darkest: #001649;
+	--Dark: #0572ed;
+	--LogoImage: url('../Images/White_EVBG-InfiniteBlue_Horizontal_Logo-50px.png');
+	--LogoImagePrint: url('../Images/White_EVBG-InfiniteBlue_Horizontal_Logo-50px.png');
+	--HeroImage: url('../Images/ib-topic-hero-2.jpg');
+}
+
